@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/murillolemes-5306s-projects/v0-figma-website-build](https://vercel.com/murillolemes-5306s-projects/v0-figma-website-build)**
+**https://uepg-site.vercel.app/**
 
 ## Build your app
 

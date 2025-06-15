@@ -12,9 +12,9 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Your project is live at:
+Link do site:
 
-**https://uepg-site.vercel.app/**
+**(https://uepg-site-ud4u.vercel.app/)**
 
 ## Build your app
 

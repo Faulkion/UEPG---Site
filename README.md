@@ -12,7 +12,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 ## Deployment
 
-Link of the website:
+Link of the website (just click to view):
 
 **(https://uepg-site-ud4u.vercel.app/)**
 
